@@ -1,0 +1,3 @@
+Status Stack now have : 0
+Char Stack now have : #
+Error!
